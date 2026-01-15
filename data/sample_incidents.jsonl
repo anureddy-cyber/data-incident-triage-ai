@@ -1,0 +1,2 @@
+{"incident_id":"INC-1001","source":"airflow","job_name":"daily_customer_metrics","table":"analytics.customer_metrics_daily","error_message":"Partition not found for date 2026-01-14","event_time":"2026-01-15T02:10:00Z"}
+{"incident_id":"INC-1002","source":"spark","job_name":"customer_enrichment","table":"dw.customer_enriched","error_message":"AnalysisException: cannot resolve 'new_col' given input columns","event_time":"2026-01-15T03:20:00Z"}
